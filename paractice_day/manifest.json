@@ -21,7 +21,7 @@
     "default_popup": "/popup/popup.html",
     "default_title": "IT_HELP 2022 DEMO WITH WINNIE",
     "default_icon": {
-      "16": "logo_128x128",
+      "16": "logo_128x128.png",
       "24": "logo_128x128.png",
       "32": "logo_128x128.png"
     }

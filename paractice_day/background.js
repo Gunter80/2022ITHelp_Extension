@@ -6,7 +6,6 @@ const setStorage = (obj) => {
   chrome.storage.sync.set(obj, () => {})
 }
 
-
 //判斷 URL是否為 ITHELP
 chrome.tabs.onUpdated.addListener(async (tabId, changeInfo, tab) => {
   if (changeInfo.status === "complete"){
